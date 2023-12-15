@@ -71,5 +71,6 @@ public class Exercises_9 {
         System.out.println("Hello Max!");
         System.out.println("Hello Maksym!");
         System.out.println("Hello Larisa!");
+        System.out.println("Hello Larisa!2");
     }
 }
