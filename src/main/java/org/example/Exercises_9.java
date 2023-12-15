@@ -69,5 +69,6 @@ public class Exercises_9 {
         }
         System.out.println("Hello World!");
         System.out.println("Hello Max!");
+        System.out.println("Hello Maksym!");
     }
 }
